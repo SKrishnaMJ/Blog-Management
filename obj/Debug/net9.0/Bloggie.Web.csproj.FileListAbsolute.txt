@@ -218,3 +218,4 @@
 /Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/Bloggie.Web.pdb
 /Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/Bloggie.Web.genruntimeconfig.cache
 /Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/ref/Bloggie.Web.dll
+/Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/Bloggie.Web.sourcelink.json
