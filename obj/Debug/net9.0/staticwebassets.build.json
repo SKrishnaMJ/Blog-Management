@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Mwd0D8RAgORvVqqT1u+WjQxJbfRdKgFjsDIrnGXyQJ8=",
+  "Hash": "BvshhnYiT7ZFsPVN8s5YYp4VsgTbnwVlBxuNKy4Fs0M=",
   "Source": "Bloggie.Web",
   "BasePath": "_content/Bloggie.Web",
   "Mode": "Default",
@@ -1067,12 +1067,12 @@
       "OriginalItemSpec": "/Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Identity": "/Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/compressed/rwmhx51ef5-lugek5hnai.gz",
+      "Identity": "/Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/compressed/rwmhx51ef5-bkxjdwvj78.gz",
       "SourceId": "Bloggie.Web",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/Bloggie.Web",
-      "RelativePath": "css/site#[.{fingerprint=lugek5hnai}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=bkxjdwvj78}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1081,8 +1081,8 @@
       "RelatedAsset": "/Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/wwwroot/css/site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "fap03slvfg",
-      "Integrity": "B2NcGeycNm1fppl5ueYw/SoIaM1eiU6mnFitSmrq4lY=",
+      "Fingerprint": "2e0omqiogh",
+      "Integrity": "+rXyNws3XS1yschQSoaXNsCBtrtdYookIzwi654mCqU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/wwwroot/css/site.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "lugek5hnai",
-      "Integrity": "zeR5PHeeHbxfGkL8WV86OzdoF6UnjuCmnagaocD+cbo=",
+      "Fingerprint": "bkxjdwvj78",
+      "Integrity": "VXJ3/nAVU2b2WbDmIGqhiWBKMtHdr9cCp9hAyygRpyo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/site.css"
@@ -3324,13 +3324,13 @@
       ]
     },
     {
-      "Route": "css/site.css",
-      "AssetFile": "/Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/compressed/rwmhx51ef5-lugek5hnai.gz",
+      "Route": "css/site.bkxjdwvj78.css",
+      "AssetFile": "/Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/compressed/rwmhx51ef5-bkxjdwvj78.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003194888179"
+          "Quality": "0.002985074627"
         }
       ],
       "ResponseHeaders": [
@@ -3340,19 +3340,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "312"
+          "Value": "334"
         },
         {
           "Name": "ETag",
-          "Value": "\"B2NcGeycNm1fppl5ueYw/SoIaM1eiU6mnFitSmrq4lY=\""
+          "Value": "\"+rXyNws3XS1yschQSoaXNsCBtrtdYookIzwi654mCqU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 23:35:33 GMT"
+          "Value": "Fri, 28 Feb 2025 02:20:07 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -3368,18 +3368,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"zeR5PHeeHbxfGkL8WV86OzdoF6UnjuCmnagaocD+cbo=\""
+          "Value": "W/\"VXJ3/nAVU2b2WbDmIGqhiWBKMtHdr9cCp9hAyygRpyo=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "bkxjdwvj78"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-zeR5PHeeHbxfGkL8WV86OzdoF6UnjuCmnagaocD+cbo="
+          "Value": "sha256-VXJ3/nAVU2b2WbDmIGqhiWBKMtHdr9cCp9hAyygRpyo="
         }
       ]
     },
     {
-      "Route": "css/site.css",
+      "Route": "css/site.bkxjdwvj78.css",
       "AssetFile": "/Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/wwwroot/css/site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3389,7 +3397,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "637"
+          "Value": "686"
         },
         {
           "Name": "Content-Type",
@@ -3397,121 +3405,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zeR5PHeeHbxfGkL8WV86OzdoF6UnjuCmnagaocD+cbo=\""
+          "Value": "\"VXJ3/nAVU2b2WbDmIGqhiWBKMtHdr9cCp9hAyygRpyo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 23:35:33 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-zeR5PHeeHbxfGkL8WV86OzdoF6UnjuCmnagaocD+cbo="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "/Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/compressed/rwmhx51ef5-lugek5hnai.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "312"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"B2NcGeycNm1fppl5ueYw/SoIaM1eiU6mnFitSmrq4lY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 23:35:33 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-B2NcGeycNm1fppl5ueYw/SoIaM1eiU6mnFitSmrq4lY="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.lugek5hnai.css",
-      "AssetFile": "/Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/compressed/rwmhx51ef5-lugek5hnai.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.003194888179"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "312"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"B2NcGeycNm1fppl5ueYw/SoIaM1eiU6mnFitSmrq4lY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 23:35:33 GMT"
+          "Value": "Fri, 28 Feb 2025 02:20:07 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"zeR5PHeeHbxfGkL8WV86OzdoF6UnjuCmnagaocD+cbo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "lugek5hnai"
+          "Value": "bkxjdwvj78"
         },
         {
           "Name": "label",
@@ -3519,13 +3427,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-zeR5PHeeHbxfGkL8WV86OzdoF6UnjuCmnagaocD+cbo="
+          "Value": "sha256-VXJ3/nAVU2b2WbDmIGqhiWBKMtHdr9cCp9hAyygRpyo="
         }
       ]
     },
     {
-      "Route": "css/site.lugek5hnai.css",
-      "AssetFile": "/Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/wwwroot/css/site.css",
+      "Route": "css/site.bkxjdwvj78.css.gz",
+      "AssetFile": "/Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/compressed/rwmhx51ef5-bkxjdwvj78.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3534,7 +3442,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "637"
+          "Value": "334"
         },
         {
           "Name": "Content-Type",
@@ -3542,56 +3450,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zeR5PHeeHbxfGkL8WV86OzdoF6UnjuCmnagaocD+cbo=\""
+          "Value": "\"+rXyNws3XS1yschQSoaXNsCBtrtdYookIzwi654mCqU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 23:35:33 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "lugek5hnai"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-zeR5PHeeHbxfGkL8WV86OzdoF6UnjuCmnagaocD+cbo="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.lugek5hnai.css.gz",
-      "AssetFile": "/Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/compressed/rwmhx51ef5-lugek5hnai.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "312"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"B2NcGeycNm1fppl5ueYw/SoIaM1eiU6mnFitSmrq4lY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 23:35:33 GMT"
+          "Value": "Fri, 28 Feb 2025 02:20:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3609,7 +3472,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "lugek5hnai"
+          "Value": "bkxjdwvj78"
         },
         {
           "Name": "label",
@@ -3617,7 +3480,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-B2NcGeycNm1fppl5ueYw/SoIaM1eiU6mnFitSmrq4lY="
+          "Value": "sha256-+rXyNws3XS1yschQSoaXNsCBtrtdYookIzwi654mCqU="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "/Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/compressed/rwmhx51ef5-bkxjdwvj78.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002985074627"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "334"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+rXyNws3XS1yschQSoaXNsCBtrtdYookIzwi654mCqU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 02:20:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"VXJ3/nAVU2b2WbDmIGqhiWBKMtHdr9cCp9hAyygRpyo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VXJ3/nAVU2b2WbDmIGqhiWBKMtHdr9cCp9hAyygRpyo="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "/Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/wwwroot/css/site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "686"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VXJ3/nAVU2b2WbDmIGqhiWBKMtHdr9cCp9hAyygRpyo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 02:20:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VXJ3/nAVU2b2WbDmIGqhiWBKMtHdr9cCp9hAyygRpyo="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "/Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/compressed/rwmhx51ef5-bkxjdwvj78.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "334"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+rXyNws3XS1yschQSoaXNsCBtrtdYookIzwi654mCqU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 02:20:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+rXyNws3XS1yschQSoaXNsCBtrtdYookIzwi654mCqU="
         }
       ]
     },

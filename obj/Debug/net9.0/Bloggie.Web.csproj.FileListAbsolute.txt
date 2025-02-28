@@ -139,7 +139,6 @@
 /Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/scopedcss/bundle/Bloggie.Web.styles.css
 /Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/scopedcss/projectbundle/Bloggie.Web.bundle.scp.css
-/Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/compressed/rwmhx51ef5-lugek5hnai.gz
 /Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/compressed/mp5vxx97fx-61n19gt1b8.gz
 /Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/compressed/ed4bhzsr02-fr7q2aak1r.gz
 /Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/compressed/2u8s3wwrkw-bqjiyaj88i.gz
@@ -221,3 +220,4 @@
 /Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/Bloggie.Web.sourcelink.json
 /Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/bin/Debug/net9.0/CloudinaryDotNet.dll
 /Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/compressed/rwmhx51ef5-bkxjdwvj78.gz
