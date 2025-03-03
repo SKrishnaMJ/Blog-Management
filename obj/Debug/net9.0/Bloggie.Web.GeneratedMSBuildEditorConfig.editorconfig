@@ -32,6 +32,18 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW5UYWdzL0FkZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/Views/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9BY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9SZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/Views/AdminBlogPosts/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW5CbG9nUG9zdHMvQWRkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

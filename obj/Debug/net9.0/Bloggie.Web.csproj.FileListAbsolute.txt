@@ -9,7 +9,9 @@
 /Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/bin/Debug/net9.0/Bloggie.Web.pdb
 /Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/bin/Debug/net9.0/Azure.Core.dll
 /Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/bin/Debug/net9.0/Azure.Identity.dll
+/Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/bin/Debug/net9.0/CloudinaryDotNet.dll
 /Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/bin/Debug/net9.0/Humanizer.dll
+/Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/bin/Debug/net9.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 /Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
 /Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/bin/Debug/net9.0/Microsoft.Build.Locator.dll
 /Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
@@ -36,6 +38,7 @@
 /Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
 /Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
 /Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/bin/Debug/net9.0/Mono.TextTemplating.dll
+/Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/bin/Debug/net9.0/Newtonsoft.Json.dll
 /Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/bin/Debug/net9.0/System.ClientModel.dll
 /Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/bin/Debug/net9.0/System.CodeDom.dll
 /Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/bin/Debug/net9.0/System.Composition.AttributedModel.dll
@@ -136,9 +139,11 @@
 /Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/Bloggie.Web.MvcApplicationPartsAssemblyInfo.cache
 /Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/Bloggie.Web.RazorAssemblyInfo.cache
 /Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/Bloggie.Web.RazorAssemblyInfo.cs
+/Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/Bloggie.Web.sourcelink.json
 /Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/scopedcss/bundle/Bloggie.Web.styles.css
 /Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/scopedcss/projectbundle/Bloggie.Web.bundle.scp.css
+/Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/compressed/rwmhx51ef5-bkxjdwvj78.gz
 /Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/compressed/mp5vxx97fx-61n19gt1b8.gz
 /Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/compressed/ed4bhzsr02-fr7q2aak1r.gz
 /Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/compressed/2u8s3wwrkw-bqjiyaj88i.gz
@@ -217,7 +222,3 @@
 /Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/Bloggie.Web.pdb
 /Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/Bloggie.Web.genruntimeconfig.cache
 /Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/ref/Bloggie.Web.dll
-/Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/Bloggie.Web.sourcelink.json
-/Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/bin/Debug/net9.0/CloudinaryDotNet.dll
-/Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/bin/Debug/net9.0/Newtonsoft.Json.dll
-/Users/saikrishnamj/Desktop/Udemy/DotNet MVC/Bloggie/Bloggie.Web/obj/Debug/net9.0/compressed/rwmhx51ef5-bkxjdwvj78.gz
