@@ -25,5 +25,7 @@ namespace Bloggie.Web.Models.Domain
         //ManytoMany relationship between BlogPost and tag domain
         public ICollection<Tag> Tags { get; set; }
         
+        public ICollection<BlogPostLike> Likes { get; set; }
+        
     }
 }
